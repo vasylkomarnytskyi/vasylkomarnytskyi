@@ -8,7 +8,6 @@ I'm a data scientist who loves math and Python programming. I am a 3rd year stud
 
 * 🌍  I'm based in Lviv, Ukraine
 * ✉️  You can contact me at [vk.vasylkomarnytskyi@gmail.com](mailto:vk.vasylkomarnytskyi@gmail.com)
-* 🧠  I'm learning Pandas, Numpy
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
