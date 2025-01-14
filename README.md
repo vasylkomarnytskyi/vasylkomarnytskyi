@@ -1,7 +1,7 @@
 Hi! My name is Vasyl Komarnytskyi
 ==========================================================================================================================================
 
-Python Developer
+Full-stack Developer
 --------------
 
 * 🌍  I'm based in Lviv, Ukraine
